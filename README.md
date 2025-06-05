@@ -1,7 +1,7 @@
 **Setup**
 
 Install via Mason
-- typescript-language-server.
+- typescript-language-server
 - prettier
 - tailwind-language-server
 - emmet-ls
